@@ -9,8 +9,11 @@
   <a href="https://huggingface.co/datasets/X-Omni/LongText-Bench">🤗 LongText-Bench</a>
 </p>
 
-
 Official inference code and LongText-Bench benchmark for our paper **X-Omni**, a unified discrete autoregressive model for both image and language modalities.
+
+## 🔥News
+
+- **2025.8.22**  To facilitate the fine-tuning of X-Omni, we have open-sourced the checkpoints from both the pre-training stage and the supervised fine-tuning stage. ([X-Omni-PT](https://huggingface.co/X-Omni/X-Omni-PT), [X-Omni-SFT](https://huggingface.co/X-Omni/X-Omni-SFT))
 
 ## 🌟 Highlights
 

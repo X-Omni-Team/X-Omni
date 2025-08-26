@@ -2,7 +2,7 @@ timm
 torch==2.6.0
 torchvision==0.21.0
 accelerate
-diffusers
+diffusers==0.34.0
 transformers==4.51.3
 einops
 protobuf==3.20.3
